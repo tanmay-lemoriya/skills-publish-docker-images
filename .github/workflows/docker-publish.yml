@@ -7,7 +7,7 @@ on:
 
 permissions:
   contents: read
-  packages: write
+  packages: write #comment1
 
 jobs:
   build-and-push:
